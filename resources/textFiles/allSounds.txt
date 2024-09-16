@@ -1,0 +1,12 @@
+eatCake.wav
+superGift.wav
+background.wav
+gameWon.wav
+pacmanDeath.wav
+freeze.wav
+clock.wav
+health.wav
+touchGhost.wav
+menuClick.wav
+key.wav
+bomb.wav

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Google Tech\Desktop\all_oop_exercises\oop1_exercises\oop1_project\src\</FILEPATH>
+      <FILENAME>Board.cpp</FILENAME>
+      <LINE>668</LINE>
+      <COLUMN>13</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '657' of 'c:\users\google tech\desktop\all_oop_exercises\oop1_exercises\oop1_project\src\board.cpp'.</DESCRIPTION>
+    <FUNCTION>Board::handleBoard</FUNCTION>
+    <DECORATED>?handleBoard@Board@@AEAAXAEAVController@@AEAVMovingObject@@@Z</DECORATED>
+    <FUNCLINE>552</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Google Tech\Desktop\all_oop_exercises\oop1_exercises\oop1_project\src\</FILEPATH>
+        <FILENAME>Board.cpp</FILENAME>
+        <LINE>657</LINE>
+        <COLUMN>10</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Google Tech\Desktop\all_oop_exercises\oop1_exercises\oop1_project\src\</FILEPATH>
+      <FILENAME>Board.cpp</FILENAME>
+      <LINE>670</LINE>
+      <COLUMN>18</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'object' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '659' of 'c:\users\google tech\desktop\all_oop_exercises\oop1_exercises\oop1_project\src\board.cpp'.</DESCRIPTION>
+    <FUNCTION>Board::handleBoard</FUNCTION>
+    <DECORATED>?handleBoard@Board@@AEAAXAEAVController@@AEAVMovingObject@@@Z</DECORATED>
+    <FUNCLINE>552</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>C:\Users\Google Tech\Desktop\all_oop_exercises\oop1_exercises\oop1_project\src\</FILEPATH>
+        <FILENAME>Board.cpp</FILENAME>
+        <LINE>659</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,0 +1,26 @@
+# ninja log v5
+5	37	0	C:/Users/Google Tech/Desktop/all_oop_exercises/oop1_exercises/oop1_project/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	dfd8e532545180ed
+47	9545	7153764135142692	CMakeFiles/oop1_project.dir/src/Menu.cpp.obj	d41e1440fa4c01bf
+9050	16743	7153764207430267	CMakeFiles/oop1_project.dir/src/RegularGhost.cpp.obj	3adc62a9289b32e6
+71	9015	7153764130046322	CMakeFiles/oop1_project.dir/src/Wall.cpp.obj	3a179adca429208c
+77	9055	7153764130375455	CMakeFiles/oop1_project.dir/src/Key.cpp.obj	49c6f9cd4e0f1758
+82	9035	7153764130235818	CMakeFiles/oop1_project.dir/src/IceBall.cpp.obj	b02b399e44bee64c
+58	9044	7153764130146055	CMakeFiles/oop1_project.dir/src/FixedObject.cpp.obj	1ed4ef69db6ffd1e
+38	9050	7153764130375455	CMakeFiles/oop1_project.dir/src/main.cpp.obj	b40884ba2d903eef
+86	9137	7153764131123438	CMakeFiles/oop1_project.dir/src/Health.cpp.obj	6c3c2956cbd076bd
+51	9813	7153764137975121	CMakeFiles/oop1_project.dir/src/Resources.cpp.obj	3f4157cc881910a8
+55	11250	7153764152436459	CMakeFiles/oop1_project.dir/src/MovingObject.cpp.obj	7699734e286f56a3
+62	11497	7153764154869939	CMakeFiles/oop1_project.dir/src/Cake.cpp.obj	ce8884c272b61624
+67	11519	7153764155129246	CMakeFiles/oop1_project.dir/src/Pacman.cpp.obj	7e547310db24af9b
+90	11644	7153764156395860	CMakeFiles/oop1_project.dir/src/Timer.cpp.obj	4cc6188dc8ff4cf1
+44	11769	7153764157642526	CMakeFiles/oop1_project.dir/src/GameObject.cpp.obj	cec4954a3d5b2ccf
+41	11917	7153764159088662	CMakeFiles/oop1_project.dir/src/Controller.cpp.obj	5c2e237c5e2e9235
+9018	16258	7153764202543341	CMakeFiles/oop1_project.dir/src/Gift.cpp.obj	7ca7e9ba589baa5d
+9545	16647	7153764206422962	CMakeFiles/oop1_project.dir/src/AllGifts.cpp.obj	7501bd54259db420
+9044	16299	7153764202932295	CMakeFiles/oop1_project.dir/src/SmartGhost.cpp.obj	9bc818b32fe27d71
+9035	16315	7153764203141736	CMakeFiles/oop1_project.dir/src/Ghost.cpp.obj	845264df50c7cc96
+9813	16715	7153764207131068	CMakeFiles/oop1_project.dir/src/Bomb.cpp.obj	2aacd6a913020d5f
+9056	17022	7153764210203199	CMakeFiles/oop1_project.dir/src/Door.cpp.obj	857590a6e928ae59
+9137	17475	7153764214682145	CMakeFiles/oop1_project.dir/src/Board.cpp.obj	af7a596daa9ec054
+17475	17949	7153764218593695	oop1_project.exe	112df224f9522cb9
+3	32	0	C:/Users/Google Tech/Desktop/all_oop_exercises/oop1_exercises/oop1_project/out/build/x64-Debug/CMakeFiles/cmake.verify_globs	dfd8e532545180ed
